@@ -1,1 +1,1 @@
-This Repo is for the AIML Lab Experiments
+This Repo contains the AIML Lab Experiments
